@@ -6,7 +6,7 @@ Frontend application for HRMS Lite (Human Resource Management System) built with
 
 - Framework: React 19
 - Build Tool: Vite 7
-- Styling: Pure CSS with CSS Variables
+- Styling: Chakra UI
 - HTTP Client: Fetch API
 
 ## Project Structure
